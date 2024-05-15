@@ -4,6 +4,8 @@ This semester, I underwent an independent study teaching myself AR filter develo
 
 **Over the course of few months I developed 6 AR effects total, 3 within each software.**
 
+<img align="center" src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/9fb8e2cd-abb2-476a-94ca-d840c5192039 >
+
 ## Table of Contents
 
 - [Introduction](https://github.com/CIIINDYXUU/ARFilters/blob/main/README.md#introduction)
