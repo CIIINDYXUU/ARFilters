@@ -1,0 +1,38 @@
+{
+    "1715707075773273:623518": {
+        "IFileManager": {
+            "path": "Files/File_1715707075773273_623518.js"
+        }
+    },
+    "1715707075776432:623519": {
+        "IResourceController": {
+            "name": "ResetTweenScriptObject",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715707075776449:623520",
+            "fileId": "1715707075773273:623518",
+            "publicId": "1715707075796835:623532",
+            "expected_hash": "c0678a7b5ac6a62d95a3b102c142d02e"
+        },
+        "IResourceManager": {
+            "uid": "1715707075776449:623520",
+            "name": "Files/File_1715707075773273_623518.js",
+            "flags": 1
+        }
+    },
+    "1715707075776449:623520": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1715707075796835:623532": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/TweenManager Nodes/ResetTweenScriptObject.js",
+                "hash": "c0678a7b5ac6a62d95a3b102c142d02e"
+            }
+        }
+    }
+}

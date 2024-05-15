@@ -1,0 +1,24 @@
+{
+    "1715707075741266:623489": {
+        "IResourceController": {
+            "name": "Visual Scripting Custom Nodes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1715707075741550:623490",
+            "resources": [
+                "1715707075743219:623491",
+                "1715707075994843:623678",
+                "1715707077007861:624523"
+            ]
+        }
+    },
+    "1715707075741550:623490": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1715707075800836:623542": {
+        "IFileManager": {
+            "path": "Files/File_1715707075800836_623542.js"
+        }
+    },
+    "1715707075804137:623543": {
+        "IResourceController": {
+            "name": "PauseTweenScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715707075804151:623544",
+            "fileId": "1715707075800836:623542",
+            "publicId": "1715707075822269:623556",
+            "expected_hash": "f37e19d8f060830c0c88b88d855427c6"
+        },
+        "IResourceManager": {
+            "uid": "1715707075804151:623544",
+            "name": "Files/File_1715707075800836_623542.js",
+            "flags": 1
+        }
+    },
+    "1715707075804151:623544": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1715707075822269:623556": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/TweenManager Nodes/PauseTweenScript.js",
+                "hash": "f37e19d8f060830c0c88b88d855427c6"
+            }
+        }
+    }
+}

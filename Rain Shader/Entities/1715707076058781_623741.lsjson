@@ -1,0 +1,38 @@
+{
+    "1715707076055253:623740": {
+        "IFileManager": {
+            "path": "Files/File_1715707076055253_623740.js"
+        }
+    },
+    "1715707076058781:623741": {
+        "IResourceController": {
+            "name": "CubicFunc",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715707076058799:623742",
+            "fileId": "1715707076055253:623740",
+            "publicId": "1715707076076668:623752",
+            "expected_hash": "45688a1dd56acafb50cc4cb961fb637f"
+        },
+        "IResourceManager": {
+            "uid": "1715707076058799:623742",
+            "name": "Files/File_1715707076055253_623740.js",
+            "flags": 1
+        }
+    },
+    "1715707076058799:623742": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1715707076076668:623752": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Visual Scripting Custom Nodes/Tween Nodes/EasingFuncs/CubicFunc.js",
+                "hash": "45688a1dd56acafb50cc4cb961fb637f"
+            }
+        }
+    }
+}

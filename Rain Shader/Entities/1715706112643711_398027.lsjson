@@ -1,0 +1,39 @@
+{
+    "1715706112641577:398026": {
+        "IFileManager": {
+            "path": "Files/File_1715706112641577_398026"
+        }
+    },
+    "1715706112643711:398027": {
+        "IResourceController": {
+            "name": "Brush",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715706112643716:398028",
+            "fileId": "1715706112641577:398026",
+            "originalId": "1715706112678215:398034",
+            "publicId": "1715706112852293:398050",
+            "expected_hash": "be917b6221599ab136249b07f12d7ad6"
+        },
+        "IResourceManager": {
+            "uid": "1715706112643716:398028",
+            "name": "Files/File_1715706112641577_398026",
+            "flags": 1
+        }
+    },
+    "1715706112678215:398034": {
+        "IFileManager": {
+            "path": "Files/File_1715706112678215_398034.lsmat"
+        }
+    },
+    "1715706112852293:398050": {
+        "IResourceController": {
+            "public": {
+                "path": "Brush.lsmat",
+                "hash": "5920657d5e892861763ebffe38ed4c60"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1715706351267781:482898": {
+        "IFileManager": {
+            "path": "Files/File_1715706351267781_482898.js"
+        }
+    },
+    "1715706351271245:482899": {
+        "IResourceController": {
+            "name": "Brush controller",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715706351271504:482900",
+            "fileId": "1715706351267781:482898",
+            "publicId": "1715706351288626:482916",
+            "expected_hash": "159759b8023d95f5d5d80743777cf1c1"
+        },
+        "IResourceManager": {
+            "uid": "1715706351271504:482900",
+            "name": "Files/File_1715706351267781_482898.js",
+            "flags": 1
+        }
+    },
+    "1715706351271504:482900": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1715706351288626:482916": {
+        "IResourceController": {
+            "public": {
+                "path": "Brush controller.js",
+                "hash": "159759b8023d95f5d5d80743777cf1c1"
+            }
+        }
+    }
+}

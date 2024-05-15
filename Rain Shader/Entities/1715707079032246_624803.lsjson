@@ -1,0 +1,38 @@
+{
+    "1715707079028964:624802": {
+        "IFileManager": {
+            "path": "Files/File_1715707079028964_624802.js"
+        }
+    },
+    "1715707079032246:624803": {
+        "IResourceController": {
+            "name": "ExampleTweenValueScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715707079032266:624804",
+            "fileId": "1715707079028964:624802",
+            "publicId": "1715707079041626:624814",
+            "expected_hash": "19bad114d394c6f678324a58945e8f6e"
+        },
+        "IResourceManager": {
+            "uid": "1715707079032266:624804",
+            "name": "Files/File_1715707079028964_624802.js",
+            "flags": 1
+        }
+    },
+    "1715707079032266:624804": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1715707079041626:624814": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]/ExampleTweenValueScript.js",
+                "hash": "19bad114d394c6f678324a58945e8f6e"
+            }
+        }
+    }
+}

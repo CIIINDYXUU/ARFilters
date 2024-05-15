@@ -1,0 +1,17 @@
+{
+    "1715705599709165:215429": {
+        "IResourceController": {
+            "name": "Paint",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715705599709159:215428"
+        },
+        "IResourceManager": {
+            "uid": "1715705599709159:215428",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

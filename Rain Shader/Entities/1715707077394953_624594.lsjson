@@ -1,0 +1,25 @@
+{
+    "1715707077394953:624594": {
+        "IResourceController": {
+            "name": "ExampleResources [REMOVE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1715707077395252:624595",
+            "resources": [
+                "1715707077396332:624596",
+                "1715707078895514:624731",
+                "1715707079000588:624787",
+                "1715707079032246:624803"
+            ]
+        }
+    },
+    "1715707077395252:624595": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/ExampleResources [REMOVE_ME]"
+            }
+        }
+    }
+}

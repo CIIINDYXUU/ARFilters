@@ -1,0 +1,39 @@
+{
+    "1715705259927686:122248": {
+        "IFileManager": {
+            "path": "Files/File_1715705259927686_122248"
+        }
+    },
+    "1715705259929917:122249": {
+        "IResourceController": {
+            "name": "Rain",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715705259929921:122250",
+            "fileId": "1715705259927686:122248",
+            "originalId": "1715705259964042:122262",
+            "publicId": "1715705260296510:122354",
+            "expected_hash": "1dc808bf5bac1c491f72c584d7d26702"
+        },
+        "IResourceManager": {
+            "uid": "1715705259929921:122250",
+            "name": "Files/File_1715705259927686_122248",
+            "flags": 1
+        }
+    },
+    "1715705259964042:122262": {
+        "IFileManager": {
+            "path": "Files/File_1715705259964042_122262.lsmat"
+        }
+    },
+    "1715705260296510:122354": {
+        "IResourceController": {
+            "public": {
+                "path": "Rain.lsmat",
+                "hash": "4989cda9e9d37686fff7b08fb677f2de"
+            }
+        }
+    }
+}
