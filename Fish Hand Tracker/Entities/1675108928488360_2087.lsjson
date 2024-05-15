@@ -1,0 +1,42 @@
+{
+    "1675108928488360:2087": {
+        "IResourceController": {
+            "name": "Distort and Shake",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830298100361:41799",
+            "fileId": "1675108928488395:2151",
+            "originalId": "1675108928488395:2152",
+            "publicId": "1675108928488465:2232",
+            "expected_hash": "548330bda816251def578fb44e42fff8",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638830298100361:41799",
+            "name": "Files/File_1675108928488395_2151",
+            "flags": 1
+        }
+    },
+    "1675108928488395:2151": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488395_2151"
+        }
+    },
+    "1675108928488395:2152": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488395_2152.lsmat"
+        }
+    },
+    "1675108928488465:2232": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Distort and Shake.lsmat",
+                "hash": "367a6e4e2a1bd2ff9d0e0c1ef8d2c113"
+            }
+        }
+    }
+}

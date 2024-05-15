@@ -1,0 +1,49 @@
+{
+    "1675108928488360:2088": {
+        "IResourceController": {
+            "name": "Bubbles",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1638830299951649:41927",
+            "fileId": "1675108928488397:2153",
+            "originalId": "1675108928488398:2154",
+            "publicId": "1675108928488466:2234",
+            "expected_hash": "7e4b8d39c0be392b1219714ef58488c5",
+            "resources": [
+                "1675108928488512:2262"
+            ],
+            "additional": {
+                "GraphFilepathKey": "Files/File40/",
+                "_exteraFile_": [
+                    "Files/File40/vfx.vfxgraph"
+                ],
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638830299951649:41927",
+            "name": "Files/File_1675108928488397_2153",
+            "flags": 1
+        }
+    },
+    "1675108928488397:2153": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488397_2153"
+        }
+    },
+    "1675108928488398:2154": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488398_2154.lsvfx"
+        }
+    },
+    "1675108928488466:2234": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/Bubbles.lsvfx",
+                "hash": "d70f994ed1e469b730bb521ebde3e1db"
+            }
+        }
+    }
+}

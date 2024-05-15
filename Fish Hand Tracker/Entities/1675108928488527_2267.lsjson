@@ -1,0 +1,23 @@
+{
+    "1675108928488465:2233": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX"
+            }
+        }
+    },
+    "1675108928488527:2267": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675108928488465:2233",
+            "resources": [
+                "1675108928488360:2088",
+                "1675108928488360:2091"
+            ]
+        }
+    }
+}

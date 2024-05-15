@@ -1,0 +1,42 @@
+{
+    "1675108928488360:2086": {
+        "IResourceController": {
+            "name": "Ray",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830297199958:41706",
+            "fileId": "1675108928488392:2149",
+            "originalId": "1675108928488393:2150",
+            "publicId": "1675108928488465:2231",
+            "expected_hash": "dd0093a3f59474bac5b74702f172ed98",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638830297199958:41706",
+            "name": "Files/File_1675108928488392_2149",
+            "flags": 1
+        }
+    },
+    "1675108928488392:2149": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488392_2149"
+        }
+    },
+    "1675108928488393:2150": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488393_2150.lsmat"
+        }
+    },
+    "1675108928488465:2231": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Ray.lsmat",
+                "hash": "357808504a02285249bba36bec6ddb49"
+            }
+        }
+    }
+}

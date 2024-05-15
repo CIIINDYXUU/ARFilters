@@ -1,0 +1,25 @@
+{
+    "1675108928488461:2215": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Tracking Assets"
+            }
+        }
+    },
+    "1675108928488497:2257": {
+        "IResourceController": {
+            "name": "Hand Tracking Assets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675108928488461:2215",
+            "resources": [
+                "1675108928488358:2072",
+                "1675108928488358:2073",
+                "1675108928488491:2254",
+                "1675108928488497:2256"
+            ]
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "1638830295644399:41554": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "00bb17d5911654a93d5634faf733525c"
+                    },
+                    "v": "1675108928488406:2163"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "78994",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "189034",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675108928488380:2135"
+        }
+    },
+    "1675108928488359:2077": {
+        "IResourceController": {
+            "name": "sardine",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830295644399:41554",
+            "fileId": "1675108928488378:2133",
+            "originalId": "1675108928488379:2134",
+            "publicId": "1675108928488462:2219",
+            "expected_hash": "4f98e18625be8321b94c0f5ca82635f6",
+            "additional": {
+                "originHash": "00bb17d5911654a93d5634faf733525c",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638830295644399:41554",
+            "name": "Files/File18.jpg",
+            "flags": 1
+        }
+    },
+    "1675108928488378:2133": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488378_2133.pvr"
+        }
+    },
+    "1675108928488379:2134": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488379_2134.png"
+        }
+    },
+    "1675108928488380:2135": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488380_2135.png"
+        }
+    },
+    "1675108928488406:2163": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488406_2163.pvr"
+        }
+    },
+    "1675108928488462:2219": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/sardine.png",
+                "hash": "00bb17d5911654a93d5634faf733525c"
+            }
+        }
+    }
+}

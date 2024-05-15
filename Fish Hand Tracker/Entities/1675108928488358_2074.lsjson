@@ -1,0 +1,67 @@
+{
+    "1638830295422100:41516": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "9604",
+                "compressedSize": "247900",
+                "extension": "png",
+                "originalRAM": "9604",
+                "originalSize": "247900",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675108928488375:2129"
+        }
+    },
+    "1675108928488358:2074": {
+        "IResourceController": {
+            "name": "perlin_noise2_3D",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830295422100:41516",
+            "fileId": "1675108928488373:2127",
+            "originalId": "1675108928488374:2128",
+            "publicId": "1675108928488462:2217",
+            "expected_hash": "9dc5b127e3661ffe9233d364a2c66488",
+            "additional": {
+                "originHash": "9dc5b127e3661ffe9233d364a2c66488",
+                "subtype": "21"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638830295422100:41516",
+            "name": "Files/File12.jpg",
+            "flags": 1
+        }
+    },
+    "1675108928488373:2127": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488373_2127.png"
+        }
+    },
+    "1675108928488374:2128": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488374_2128.png"
+        }
+    },
+    "1675108928488375:2129": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488375_2129.png"
+        }
+    },
+    "1675108928488462:2217": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/perlin_noise2_3D.png",
+                "hash": "9dc5b127e3661ffe9233d364a2c66488"
+            }
+        }
+    }
+}

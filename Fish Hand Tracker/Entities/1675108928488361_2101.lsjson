@@ -1,0 +1,39 @@
+{
+    "1675108928488361:2101": {
+        "IResourceController": {
+            "name": "Default Hands",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1666996067771612:36706",
+            "fileId": "1675108928488418:2177",
+            "originalId": "1675108928488419:2178",
+            "publicId": "1675108928488467:2241",
+            "expected_hash": "4b7496d41d0b7d2370b5601bd99f2a81"
+        },
+        "IResourceManager": {
+            "uid": "1666996067771612:36706",
+            "name": "Files/File_1675108928488418_2177",
+            "flags": 1
+        }
+    },
+    "1675108928488418:2177": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488418_2177"
+        }
+    },
+    "1675108928488419:2178": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488419_2178.lsmat"
+        }
+    },
+    "1675108928488467:2241": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Default Hands.lsmat",
+                "hash": "08782b89a9aeba3b45e85e0d87471a0b"
+            }
+        }
+    }
+}

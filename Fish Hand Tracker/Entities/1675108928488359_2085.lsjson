@@ -1,0 +1,42 @@
+{
+    "1675108928488359:2085": {
+        "IResourceController": {
+            "name": "Underwater",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830296077918:41682",
+            "fileId": "1675108928488390:2147",
+            "originalId": "1675108928488391:2148",
+            "publicId": "1675108928488465:2230",
+            "expected_hash": "743c9005f97906ec5090437d4909c3e3",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638830296077918:41682",
+            "name": "Files/File_1675108928488390_2147",
+            "flags": 1
+        }
+    },
+    "1675108928488390:2147": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488390_2147"
+        }
+    },
+    "1675108928488391:2148": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488391_2148.lsmat"
+        }
+    },
+    "1675108928488465:2230": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Underwater.lsmat",
+                "hash": "0373e175b88d3267c337045708f65db9"
+            }
+        }
+    }
+}

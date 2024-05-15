@@ -1,0 +1,49 @@
+{
+    "1675108928488360:2091": {
+        "IResourceController": {
+            "name": "Fish Swarm",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1638830300867335:42384",
+            "fileId": "1675108928488402:2159",
+            "originalId": "1675108928488403:2160",
+            "publicId": "1675108928488466:2237",
+            "expected_hash": "650bfc377aa891563dad95c0f42e87ac",
+            "resources": [
+                "1675108928488523:2265"
+            ],
+            "additional": {
+                "GraphFilepathKey": "Files/File67/",
+                "_exteraFile_": [
+                    "Files/File67/vfx.vfxgraph"
+                ],
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638830300867335:42384",
+            "name": "Files/File_1675108928488402_2159",
+            "flags": 1
+        }
+    },
+    "1675108928488402:2159": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488402_2159"
+        }
+    },
+    "1675108928488403:2160": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488403_2160.lsvfx"
+        }
+    },
+    "1675108928488466:2237": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/Fish Swarm.lsvfx",
+                "hash": "47dcd99c917af4fc45c85bd38da4874a"
+            }
+        }
+    }
+}

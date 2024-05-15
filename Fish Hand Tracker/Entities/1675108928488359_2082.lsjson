@@ -1,0 +1,38 @@
+{
+    "1638830295956474:41638": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675108928488359:2082": {
+        "IResourceController": {
+            "name": "GlobalHandTracking",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830295956474:41638",
+            "fileId": "1675108928488387:2144",
+            "publicId": "1675108928488464:2226",
+            "expected_hash": "4a68400199f14de68e83daec0528a1c8"
+        },
+        "IResourceManager": {
+            "uid": "1638830295956474:41638",
+            "name": "Files/File_1675108928488387_2144.js",
+            "flags": 1
+        }
+    },
+    "1675108928488387:2144": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488387_2144.js"
+        }
+    },
+    "1675108928488464:2226": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/GlobalHandTracking.js",
+                "hash": "4a68400199f14de68e83daec0528a1c8"
+            }
+        }
+    }
+}

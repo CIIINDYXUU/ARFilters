@@ -1,0 +1,38 @@
+{
+    "1638830295929401:41622": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675108928488359:2081": {
+        "IResourceController": {
+            "name": "CustomVFX_Bioluminescence",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830295929401:41622",
+            "fileId": "1675108928488386:2143",
+            "publicId": "1675108928488464:2225",
+            "expected_hash": "7c16f8e8c18984281c1d8883131cf8db"
+        },
+        "IResourceManager": {
+            "uid": "1638830295929401:41622",
+            "name": "Files/File_1675108928488386_2143.js",
+            "flags": 1
+        }
+    },
+    "1675108928488386:2143": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488386_2143.js"
+        }
+    },
+    "1675108928488464:2225": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom/CustomVFX_Bioluminescence.js",
+                "hash": "7c16f8e8c18984281c1d8883131cf8db"
+            }
+        }
+    }
+}

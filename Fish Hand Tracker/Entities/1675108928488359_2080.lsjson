@@ -1,0 +1,38 @@
+{
+    "1638830295906461:41606": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675108928488359:2080": {
+        "IResourceController": {
+            "name": "CustomVFX_Swarm",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830295906461:41606",
+            "fileId": "1675108928488386:2142",
+            "publicId": "1675108928488463:2224",
+            "expected_hash": "2f8ce02f93835c15e28f3a04a0921246"
+        },
+        "IResourceManager": {
+            "uid": "1638830295906461:41606",
+            "name": "Files/File_1675108928488386_2142.js",
+            "flags": 1
+        }
+    },
+    "1675108928488386:2142": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488386_2142.js"
+        }
+    },
+    "1675108928488463:2224": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Custom/CustomVFX_Swarm.js",
+                "hash": "2f8ce02f93835c15e28f3a04a0921246"
+            }
+        }
+    }
+}

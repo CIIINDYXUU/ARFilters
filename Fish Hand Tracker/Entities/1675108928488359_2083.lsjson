@@ -1,0 +1,38 @@
+{
+    "1638830295976019:41650": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675108928488359:2083": {
+        "IResourceController": {
+            "name": "HandPositionToVFX",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638830295976019:41650",
+            "fileId": "1675108928488388:2145",
+            "publicId": "1675108928488464:2227",
+            "expected_hash": "4d65f8e4d4331922775d644413920744"
+        },
+        "IResourceManager": {
+            "uid": "1638830295976019:41650",
+            "name": "Files/File_1675108928488388_2145.js",
+            "flags": 1
+        }
+    },
+    "1675108928488388:2145": {
+        "IFileManager": {
+            "path": "Files/File_1675108928488388_2145.js"
+        }
+    },
+    "1675108928488464:2227": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HandPositionToVFX.js",
+                "hash": "4d65f8e4d4331922775d644413920744"
+            }
+        }
+    }
+}
