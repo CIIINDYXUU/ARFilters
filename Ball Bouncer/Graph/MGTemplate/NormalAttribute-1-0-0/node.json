@@ -1,0 +1,18 @@
+{
+	"id": "5dd80912-fca2-4890-dcd3-31463105c0e2",
+	"name": "Normal Attribute",
+	"category": "Vector",
+	"inputs": [],
+	"outputs": [
+		{
+			"name": "Normal",
+			"description": "Normal vector.",
+			"type": "Vector3f"
+		}
+	],
+	"description": "Normal vector of the surface. It's in world space by default.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

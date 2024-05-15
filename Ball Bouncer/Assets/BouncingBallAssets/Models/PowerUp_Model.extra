@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "a6cd9dc8-ffba-b5f1-24de-ab97c41dc1c0",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "PowerUp_Model",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

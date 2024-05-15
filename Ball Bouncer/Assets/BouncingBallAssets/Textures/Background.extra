@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "7a247e41-2e45-a860-01f7-f50a6bb881f3",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Background",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

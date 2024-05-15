@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "d5ed072a-5cc4-aad5-0a4d-95ecbb881b98",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Ball_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5099909420493627573, 12151165812587654570)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "e013f92f-0e42-e7aa-af88-abe0e1e0d05e"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "0fe69797-b37d-5236-4524-aaf5e4780805"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "128d0e7d-890b-b273-b913-8387f26dd34c"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000800"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

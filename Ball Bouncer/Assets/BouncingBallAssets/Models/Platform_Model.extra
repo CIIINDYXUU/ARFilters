@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "ad281d63-b27b-65a5-9c3f-21824191e6f7",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Platform_Model",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

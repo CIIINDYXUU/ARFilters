@@ -1,0 +1,30 @@
+[
+  {
+    "guid": {
+      "a": "c14194ea-e510-d943-a4ef-d0a6a7555193",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "PowerUp",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [],
+    "meshGUIDs": [
+      "c3399afd-7469-e9a7-7bad-1e4dff4f959d",
+      "361ab478-b08e-79a2-de70-cbe575eef3fd",
+      "09a5868a-756c-7f56-11dc-ec2233493db0"
+    ],
+    "animazGUIDs": [
+      "d35217d8-dbd3-e1e4-0de5-4c2eb2e35b96"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "1f60b057-f5c7-e7b3-4ec7-07ddde2c1aed",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Gameover_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4805384357200194502, 10425473886474916771)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

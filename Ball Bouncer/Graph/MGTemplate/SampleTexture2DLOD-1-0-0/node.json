@@ -1,0 +1,61 @@
+{
+  "id": "d5c5bc2f-e83b-9e29-8ad4-ba1306fbeef4",
+  "name": "Sample Texture 2D LOD",
+  "category": "Sample",
+  "inputs": [
+    {
+      "name": "Texture 2D LOD",
+      "description": "2D texture to sample with LOD.",
+      "type": "Texture2D",
+      "defaultValue": "Default_Material_Texture_Icon",
+      "isUniform": true
+    },
+    {
+      "name": "UV",
+      "description": "UV coordinate.",
+      "type": "Vector2f"
+    },
+    {
+      "name": "LOD",
+      "description": "Level of details.",
+      "type": "Number"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "RGBA",
+      "description": "Pixel value at the given UV coordinate.",
+      "type": "Color"
+    },
+    {
+      "name": "RGB",
+      "description": "Pixel value (without alpha) at the given UV coordinate.",
+      "type": "Vector3f"
+    },
+    {
+      "name": "R",
+      "description": "R channel of the pixel value.",
+      "type": "Number"
+    },
+    {
+      "name": "G",
+      "description": "G channel of the pixel value.",
+      "type": "Number"
+    },
+    {
+      "name": "B",
+      "description": "B channel of the pixel value.",
+      "type": "Number"
+    },
+    {
+      "name": "A",
+      "description": "Alpha channel of the pixel value.",
+      "type": "Number"
+    }
+  ],
+  "description": "2D texture sampler with LOD.",
+  "productTypes": [
+    "EHO", "EHD", "EHI"
+  ],
+  "version": "1.0.0"
+}

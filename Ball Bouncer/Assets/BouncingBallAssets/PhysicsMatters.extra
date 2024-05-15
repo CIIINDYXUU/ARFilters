@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "fb983458-e3f3-6443-d137-9d6fd8f5fb36",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "PhysicsMatters",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

@@ -1,0 +1,37 @@
+{
+	"id": "1e85de03-0ac2-94fb-e298-69641cfa0147",
+	"name": "Fresnel",
+	"category": "Utility",
+	"inputs": [
+		{
+			"name": "View Direction",
+			"description": "View direction vector.",
+			"type": "Vector3f",
+			"defaultValue": "0.0, 0.0, 1.0"
+		},
+		{
+			"name": "Normal",
+			"description": "Normal vector.",
+			"type": "Vector3f",
+			"defaultValue": "0.0, 0.0, 1.0"
+		},
+		{
+			"name": "Exponent",
+			"description": "Exponent of the power.",
+			"type": "Number",
+			"defaultValue": 2
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"description": "Fresnel value between 0 and 1.",
+			"type": "Number"
+		}
+	],
+	"description": "Fresnel effect. The larger the viewing angle is, the greater the return value will be.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

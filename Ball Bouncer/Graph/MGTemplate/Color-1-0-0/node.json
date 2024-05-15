@@ -1,0 +1,18 @@
+{
+	"id": "67db21a0-2d2f-2e5f-cc89-6eca4dd3f6dc",
+	"name": "Color",
+	"category": "Parameter",
+	"inputs": [],
+	"outputs": [
+		{
+			"name": "Parameter",
+			"description": "Color parameter.",
+			"type": "Color"
+		}
+	],
+	"description": "Add a color parameter.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

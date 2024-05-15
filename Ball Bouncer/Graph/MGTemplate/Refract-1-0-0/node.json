@@ -1,0 +1,46 @@
+{
+	"id": "6735e798-57fa-8ed7-f8f5-2d6d45e1a9ec",
+	"name": "Refract",
+	"category": "Vector Operations",
+	"inputs": [
+		{
+			"name": "Vector",
+			"description": "Incident vector",
+			"type": "Vector3f"
+		},
+		{
+			"name": "Normal",
+			"description": "Normal vector",
+			"type": "Vector3f"
+		},
+		{
+			"name": "Ratio",
+			"description": "Ratio of indices of refraction",
+			"type": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Refraction",
+			"description": "Refraction of an incident vector",
+			"type": "Vector3f"
+		}
+	],
+	"description": "Return the refraction direction of an incident vector.",
+	"supportedInputs": [
+		{
+			"in": [
+				"genType",
+				"genType",
+				"Number"
+			],
+			"out": [
+				"genType"
+			]
+		}
+	],
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

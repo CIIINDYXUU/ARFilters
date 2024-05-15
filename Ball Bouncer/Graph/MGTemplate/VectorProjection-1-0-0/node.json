@@ -1,0 +1,34 @@
+{
+	"name": "Vector Projection",
+	"id": "32b5b3ad-38fa-8668-7523-76ed64039661",
+	"category": "Vector Operations",
+	"description": "The vector projection of vector B onto  non-zero vector A.",
+	"groupTemplate": true,
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"foldable": false,
+	"expandable": false,
+	"inputs": [
+		{
+			"name": "Vec A",
+			"type": "Vector3f",
+			"description": "Projected vector."
+		},
+		{
+			"name": "Vec B",
+			"type": "Vector3f",
+			"description": "Project vector."
+		}
+	],
+	"outputs": [
+		{
+			"name": "B onto A",
+			"type": "Vector3f",
+			"description": "Resulted vector."
+		}
+	],
+	"version": "1.0.0",
+	"subgraphPath": "VectorProjection.subgraph",
+	"TTEHVer": ""
+}

@@ -1,0 +1,67 @@
+{
+	"id": "adc275ea-8688-abf9-362f-6684f8a011c7",
+	"name": "Standard PBR",
+	"category": "Material Mode",
+	"inputs": [
+		{
+			"name": "Albedo",
+			"description": "Base color of the surface.",
+			"type": "Vector3f",
+			"defaultValue": "1.0, 1.0, 1.0"
+		},
+		{
+			"name": "Metallic",
+			"description": "Metalness of the surface.",
+			"type": "Number",
+			"defaultValue": 0
+		},
+		{
+			"name": "Roughness",
+			"description": "Roughness of the surface.",
+			"type": "Number",
+			"defaultValue": 0.5
+		},
+		{
+			"name": "Normal",
+			"description": "Normal vector.",
+			"type": "Vector3f",
+			"defaultValue": "0.0, 0.0, 1.0"
+		},
+		{
+			"name": "Emissive",
+			"description": "Emissive color.",
+			"type": "Vector3f",
+			"defaultValue": "0.0, 0.0, 0.0"
+		},
+		{
+			"name": "AO",
+			"description": "Ambient occlusion value.",
+			"type": "Number",
+			"defaultValue": 1
+		},
+		{
+			"name": "Opacity",
+			"description": "Translucency of the material.",
+			"type": "Number",
+			"defaultValue": 1
+		},
+		{
+			"name": "Opacity Mask",
+			"description": "Mask value at a pixel. When the 'Opacity Mask' setting is checked. a pixel is discarded if this value is less than 0.2.",
+			"type": "Number",
+			"defaultValue": 0
+		}
+	],
+	"outputs": [
+		{
+			"name": "Color",
+			"description": "Result color.",
+			"type": "Color"
+		}
+	],
+	"description": "Standard PBR shading model.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

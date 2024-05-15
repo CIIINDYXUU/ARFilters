@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "84beb23a-c5a0-e80b-1c69-8d6acf66d9ba",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "SwipePrompt_AnimationTex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

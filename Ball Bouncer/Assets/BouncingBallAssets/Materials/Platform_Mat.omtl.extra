@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "ebcb7aaf-547b-b95f-1ae3-6d618f13c7d2",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Platform_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4676267604940519339, 10448742151304819585)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "d121510e-ad79-e2d1-1ee2-a0b40f0c9fab"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "b927d815-e6d0-605d-3975-0bdb35239e72"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "10417271-0975-7713-4724-cafb750457ac"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000800"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

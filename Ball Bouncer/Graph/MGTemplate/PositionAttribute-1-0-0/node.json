@@ -1,0 +1,18 @@
+{
+	"id": "7abdf3c5-a582-8897-c95f-deeeb0a2a194",
+	"name": "Position Attribute",
+	"category": "Vector",
+	"inputs": [],
+	"outputs": [
+		{
+			"name": "Position",
+			"description": "Vertex position.",
+			"type": "Vector3f"
+		}
+	],
+	"description": "Vertex position of the surface. It's in world space by default.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

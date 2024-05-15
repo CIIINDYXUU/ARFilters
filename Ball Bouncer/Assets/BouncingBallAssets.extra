@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "08a6f96d-004b-89b9-16ce-3b556445ee6c",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "BouncingBallAssets",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

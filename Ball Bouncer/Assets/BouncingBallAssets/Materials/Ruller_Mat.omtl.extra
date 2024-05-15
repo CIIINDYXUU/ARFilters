@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "838a1cc0-924a-e2fd-71c2-f26765a86d18",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Ruller_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4833389700509598871, 11928369325777863343)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "7f88a955-aae3-e296-0150-0a05b60e94c2"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

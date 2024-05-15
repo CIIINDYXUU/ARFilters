@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "0a268c89-b88c-6463-cdc7-edc05ba09b60",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "PowerUpArrows_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4699232427696951802, 12910833845514531491)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

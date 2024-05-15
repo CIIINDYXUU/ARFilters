@@ -1,0 +1,18 @@
+{
+	"id": "5ee7fd90-a10e-e1a8-3bb5-e5b52f63d821",
+	"name": "Camera Position WS",
+	"category": "Vector",
+	"inputs": [],
+	"outputs": [
+		{
+			"name": "Position",
+			"description": "Camera world position.",
+			"type": "Vector3f"
+		}
+	],
+	"description": "Return world position of the camera.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

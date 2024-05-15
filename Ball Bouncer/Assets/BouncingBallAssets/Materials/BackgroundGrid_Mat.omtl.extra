@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "a5a980a0-ea68-e3b9-3176-4aa85fb925d0",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "BackgroundGrid_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5081938000945168419, 7871608884087795623)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "8a004fe4-d9a7-8f3f-9143-dac65698e691"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "72a73d6e-643e-e087-8eca-ea59905452f7",
+      "b": ""
+    },
+    "extraType": "ResItemGraphMaterial",
+    "name": "PowerUpGlass_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.4.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5302092660882755385, 14412521517701851780)",
+    "references": [
+      {
+        "propertyName": "_Custom_Sampler2D",
+        "guid": "00000000-0000-0000-0000-000000001301"
+      }
+    ]
+  }
+]
