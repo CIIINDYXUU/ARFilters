@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "df8ec650-0a03-66e1-9a02-5cde791602e4",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Iridescent",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

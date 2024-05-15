@@ -1,0 +1,39 @@
+{
+	"id": "e5f7c454-e9c3-8a8a-9b87-7fadace42ab4",
+	"name": "Append4",
+	"category": "Vector Operations",
+	"inputs": [
+		{
+			"name": "X",
+			"description": "Input value X",
+			"type": "Number"
+		},
+		{
+			"name": "Y",
+			"description": "Input value Y",
+			"type": "Number"
+		},
+		{
+			"name": "Z",
+			"description": "Input value Z",
+			"type": "Number"
+		},
+		{
+			"name": "W",
+			"description": "Input value W",
+			"type": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"description": "Result vector.",
+			"type": "Vector4f"
+		}
+	],
+	"description": "Append four floating numbers.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

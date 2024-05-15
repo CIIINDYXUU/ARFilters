@@ -1,0 +1,125 @@
+{
+    "1692404379555210:958738": {
+        "IFileManager": {
+            "path": "Files/File_1692404379555210_958738.mesh"
+        }
+    },
+    "1692404379558405:958739": {
+        "IResourceController": {
+            "name": "Cows",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692404379620222:958743",
+            "fileId": "1692404379555210:958738",
+            "publicId": "1692404380116884:958780",
+            "expected_hash": "b8d8c7e9dccd31a6be224ba029503cb9",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1692404379620222:958743",
+            "name": "Files/File_1692404379555210_958738.mesh",
+            "flags": 1
+        }
+    },
+    "1692404379620222:958743": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "6128584",
+                "compressedSize": "4404438",
+                "extension": "mesh",
+                "originalRAM": "6128584",
+                "originalSize": "4404438",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1692404379648732:958751"
+        }
+    },
+    "1692404379648732:958751": {
+        "IFileManager": {
+            "path": "Files/File_1692404379648732_958751.mesh"
+        }
+    },
+    "1692404380116884:958780": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Cows.mesh",
+                "hash": "b8d8c7e9dccd31a6be224ba029503cb9"
+            }
+        }
+    }
+}

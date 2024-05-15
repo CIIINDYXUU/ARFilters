@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "5fdd96bf-3679-17f8-e4e4-3a990ca50e1d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "CastleWalls_MRAO",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

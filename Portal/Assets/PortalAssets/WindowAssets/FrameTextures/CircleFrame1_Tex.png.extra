@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "3afd8842-4bad-67c7-070b-0609e7597237",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "CircleFrame1_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

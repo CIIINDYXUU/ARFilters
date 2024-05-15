@@ -1,0 +1,31 @@
+[
+  {
+    "guid": {
+      "a": "345f4741-f5c8-dcce-0b8f-8abd7593e5bc",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Portal_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": false,
+    "materialsGUIDs": [
+      "e25fca0a-e26f-4a6f-d0aa-d92f0cc0a456"
+    ],
+    "meshGUIDs": [
+      "a8d360d0-454b-94c6-a62c-4ef6c7df81a1",
+      "515f8649-572b-0c60-6eb0-fe638bea7139"
+    ],
+    "animazGUIDs": [
+      "b3857ce3-4d4d-7746-7b1c-8befb6f294c4"
+    ]
+  }
+]

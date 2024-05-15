@@ -1,0 +1,80 @@
+{
+    "1692219912125285:21048": {
+        "IFileManager": {
+            "path": "Files/File_1692219912125285_21048.pvr"
+        }
+    },
+    "1692219912127613:21049": {
+        "IResourceController": {
+            "name": "CowDiffuse",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692219912128029:21050",
+            "fileId": "1692219912125285:21048",
+            "originalId": "1692219912128322:21055",
+            "publicId": "1692404353126350:954708",
+            "expected_hash": "9a22b173b531237cce20826d71a3f98a",
+            "additional": {
+                "originHash": "4434bf4fb7719323039d26112eca1fac",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1692219912128029:21050",
+            "name": "Files/File_1692219912125285_21048.jpg",
+            "flags": 1
+        }
+    },
+    "1692219912128029:21050": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "4434bf4fb7719323039d26112eca1fac"
+                    },
+                    "v": "1692219918192631:23784"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "268989",
+                "compressedSize": "95416",
+                "extension": "png",
+                "originalRAM": "1612900",
+                "originalSize": "440519",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1692219912140202:21063"
+        }
+    },
+    "1692219912128322:21055": {
+        "IFileManager": {
+            "path": "Files/File_1692219912128322_21055.png"
+        }
+    },
+    "1692219912140202:21063": {
+        "IFileManager": {
+            "path": "Files/File_1692219912140202_21063.png"
+        }
+    },
+    "1692219918192631:23784": {
+        "IFileManager": {
+            "path": "Files/File_1692219918192631_23784.pvr"
+        }
+    },
+    "1692404353126350:954708": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/CowDiffuse.png",
+                "hash": "4434bf4fb7719323039d26112eca1fac"
+            }
+        }
+    }
+}

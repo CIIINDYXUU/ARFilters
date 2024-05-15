@@ -1,0 +1,30 @@
+[
+  {
+    "guid": {
+      "a": "c5a963bc-4a65-2ce3-5cd2-df53f5a13c4f",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "StarsSet1_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": false,
+    "materialsGUIDs": [
+      "bdec0416-5d55-8c6a-2497-0dc8b947804d"
+    ],
+    "meshGUIDs": [
+      "812597c1-ebef-5572-7279-3cb5be8e5bf2"
+    ],
+    "animazGUIDs": [
+      "63a156c8-fda5-7759-0045-66571e9675ce"
+    ]
+  }
+]

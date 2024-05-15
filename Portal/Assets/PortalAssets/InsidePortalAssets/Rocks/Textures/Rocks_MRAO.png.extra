@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "65e511c3-730c-272e-29b1-109efd63654f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Rocks_MRAO",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "0b9454ca-ebd0-386a-5714-2f372eaf9255",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "SkyOccluder_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": false,
+    "materialsGUIDs": [],
+    "meshGUIDs": [
+      "ded65ccb-e398-695a-99e3-d6a0d9974195",
+      "8ba22cba-79ab-2aee-c97d-58ee6396ee5d"
+    ],
+    "animazGUIDs": []
+  }
+]

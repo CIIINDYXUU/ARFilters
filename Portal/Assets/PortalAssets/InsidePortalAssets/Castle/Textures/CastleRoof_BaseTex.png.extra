@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "d0340daf-30e2-e8c6-d03d-389942542cc9",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "CastleRoof_BaseTex",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": true,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 2,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

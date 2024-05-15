@@ -1,0 +1,39 @@
+{
+    "1692219913151502:21374": {
+        "IFileManager": {
+            "path": "Files/File_1692219913151502_21374"
+        }
+    },
+    "1692219913153246:21375": {
+        "IResourceController": {
+            "name": "Cow Mesh Instance Particles",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692219913153250:21376",
+            "fileId": "1692219913151502:21374",
+            "originalId": "1692219913179164:21382",
+            "publicId": "1692219913320734:21389",
+            "expected_hash": "e7c14132d7a369f27b2ad9a3aed22730"
+        },
+        "IResourceManager": {
+            "uid": "1692219913153250:21376",
+            "name": "Files/File_1692219913151502_21374",
+            "flags": 1
+        }
+    },
+    "1692219913179164:21382": {
+        "IFileManager": {
+            "path": "Files/File_1692219913179164_21382.lsmat"
+        }
+    },
+    "1692219913320734:21389": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Vortex/GPU Particles/Cow Mesh Instance Particles.lsmat",
+                "hash": "c618a07fecfbe356f825962b669ba10b"
+            }
+        }
+    }
+}

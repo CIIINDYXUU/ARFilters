@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "c548167a-a354-69d5-7187-8622583747a1",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Galaxy_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5414667243558444396, 101362255181337757)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "51e6e402-3530-8996-6904-2a01d4cabc4f"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

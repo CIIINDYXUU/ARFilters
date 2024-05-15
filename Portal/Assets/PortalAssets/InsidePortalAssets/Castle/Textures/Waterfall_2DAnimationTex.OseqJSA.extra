@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7fac3da0-2367-44d4-d53c-e19e2dcd572f",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "Waterfall_2DAnimationTex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

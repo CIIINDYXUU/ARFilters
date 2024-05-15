@@ -1,0 +1,24 @@
+{
+    "1680035222054612:2269666": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/3D Texture Noise"
+            }
+        }
+    },
+    "1680035222054689:2269916": {
+        "IResourceController": {
+            "name": "3D Texture Noise",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1680035222054612:2269666",
+            "resources": [
+                "1688689690820740:17141773",
+                "1691110588428342:1228608",
+                "1692219912218985:21070"
+            ]
+        }
+    }
+}

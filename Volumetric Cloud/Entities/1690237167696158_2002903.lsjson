@@ -1,0 +1,79 @@
+{
+    "1690237167694283:2002902": {
+        "IFileManager": {
+            "path": "Files/File_1690237167694283_2002902.pvr"
+        }
+    },
+    "1690237167696158:2002903": {
+        "IResourceController": {
+            "name": "MoonCloudStar",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690237167697796:2002904",
+            "fileId": "1690237167694283:2002902",
+            "originalId": "1690237167698541:2002909",
+            "publicId": "1690237167755994:2002933",
+            "expected_hash": "275cb39a94a8b58493e0312ce9666248",
+            "additional": {
+                "originHash": "ed41343448c5bedb2f98b8f0bc70db6c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690237167697796:2002904",
+            "name": "Files/File_1690237167694283_2002902.jpg",
+            "flags": 1
+        }
+    },
+    "1690237167697796:2002904": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ed41343448c5bedb2f98b8f0bc70db6c"
+                    },
+                    "v": "1690237339123110:2088709"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "415214",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "412658",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1690237167730790:2002921"
+        }
+    },
+    "1690237167698541:2002909": {
+        "IFileManager": {
+            "path": "Files/File_1690237167698541_2002909.jpg"
+        }
+    },
+    "1690237167730790:2002921": {
+        "IFileManager": {
+            "path": "Files/File_1690237167730790_2002921.jpg"
+        }
+    },
+    "1690237167755994:2002933": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/MoonCloudStar.jpg",
+                "hash": "ed41343448c5bedb2f98b8f0bc70db6c"
+            }
+        }
+    },
+    "1690237339123110:2088709": {
+        "IFileManager": {
+            "path": "Files/File_1690237339123110_2088709.pvr"
+        }
+    }
+}

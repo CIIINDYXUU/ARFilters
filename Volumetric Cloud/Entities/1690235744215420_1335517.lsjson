@@ -1,0 +1,30 @@
+{
+    "1690235744215420:1335517": {
+        "IResourceController": {
+            "name": "moon_anim",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1690235744214783:1335293",
+            "fileId": "1690235744269070:1335799",
+            "originalId": "1690237441865354:2131438",
+            "expected_hash": "4be27aab2c9958dd3b894d502e5503ba"
+        },
+        "IResourceManager": {
+            "uid": "1690235744214783:1335293",
+            "name": "moon_anim",
+            "flags": 0
+        }
+    },
+    "1690235744269070:1335799": {
+        "IFileManager": {
+            "path": "Files/File_1690235744269070_1335799.oprfb"
+        }
+    },
+    "1690237441865354:2131438": {
+        "IFileManager": {
+            "path": "Files/File_1690237441865354_2131438.oprfb"
+        }
+    }
+}

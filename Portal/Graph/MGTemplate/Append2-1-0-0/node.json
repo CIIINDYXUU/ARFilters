@@ -1,0 +1,29 @@
+{
+	"id": "9178e416-771e-2a8d-be66-b712224fe3a9",
+	"name": "Append2",
+	"category": "Vector Operations",
+	"inputs": [
+		{
+			"name": "X",
+			"description": "Input value X",
+			"type": "Number"
+		},
+		{
+			"name": "Y",
+			"description": "Input value Y",
+			"type": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"description": "Result vector.",
+			"type": "Vector2f"
+		}
+	],
+	"description": "Append two floating numbers.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

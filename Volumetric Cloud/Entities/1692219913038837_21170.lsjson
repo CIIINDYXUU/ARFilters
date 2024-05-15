@@ -1,0 +1,24 @@
+{
+    "1692219913038837:21170": {
+        "IResourceController": {
+            "name": "GPU Particles",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1692219913039019:21171",
+            "resources": [
+                "1692219913153246:21375",
+                "1692216901212978:72119",
+                "1692229833609648:717518"
+            ]
+        }
+    },
+    "1692219913039019:21171": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Vortex/GPU Particles"
+            }
+        }
+    }
+}

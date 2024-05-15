@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "49b1afa0-ecd0-6a0c-0dc9-6e19f6aa12c5",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "CastleWalls_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4632854379581464987, 9881965685669064087)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "e969df9a-f88f-2567-2ac8-9b4611178795"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "bd119367-5ab5-de6d-cebe-e232288a6687"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "5fdd96bf-3679-17f8-e4e4-3a990ca50e1d"
+      },
+      {
+        "propertyName": "_EnvironmentTexture",
+        "guid": "00000000-0000-0000-0000-000000000020"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

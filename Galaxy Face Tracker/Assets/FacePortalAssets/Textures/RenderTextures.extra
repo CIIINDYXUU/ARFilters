@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "303b8535-5045-76c7-2114-e522ca72cbeb",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "RenderTextures",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

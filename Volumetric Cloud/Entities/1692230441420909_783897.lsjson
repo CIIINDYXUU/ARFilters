@@ -1,0 +1,79 @@
+{
+    "1692230441417645:783896": {
+        "IFileManager": {
+            "path": "Files/File_1692230441417645_783896.pvr"
+        }
+    },
+    "1692230441420909:783897": {
+        "IResourceController": {
+            "name": "Debris_2x2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692230441422324:783898",
+            "fileId": "1692230441417645:783896",
+            "originalId": "1692230441423171:783903",
+            "publicId": "1692230441583715:783907",
+            "expected_hash": "8bd5a2c6a38b7a1d0b4ad52ae36a05d6",
+            "additional": {
+                "originHash": "7f1faf243382ab1067668663e9f85460"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1692230441422324:783898",
+            "name": "Files/File_1692230441417645_783896.png",
+            "flags": 1
+        }
+    },
+    "1692230441422324:783898": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "7f1faf243382ab1067668663e9f85460"
+                    },
+                    "v": "1692653166765242:29554"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "2341",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "9262",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1692653166425842:29527"
+        }
+    },
+    "1692230441423171:783903": {
+        "IFileManager": {
+            "path": "Files/File_1692230441423171_783903.png"
+        }
+    },
+    "1692230441583715:783907": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Debris_2x2.png",
+                "hash": "7f1faf243382ab1067668663e9f85460"
+            }
+        }
+    },
+    "1692653166425842:29527": {
+        "IFileManager": {
+            "path": "Files/File_1692653166425842_29527.png"
+        }
+    },
+    "1692653166765242:29554": {
+        "IFileManager": {
+            "path": "Files/File_1692653166765242_29554.pvr"
+        }
+    }
+}

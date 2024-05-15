@@ -1,0 +1,30 @@
+[
+  {
+    "guid": {
+      "a": "4ab9e4ae-d54b-b270-082f-9782cc15ed8d",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Galaxy_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": false,
+    "materialsGUIDs": [
+      "a8bf3f96-64ae-7cbc-3d86-b90259cef259"
+    ],
+    "meshGUIDs": [
+      "4a42df8d-8648-8f8f-cbf2-1cb08d80362d"
+    ],
+    "animazGUIDs": [
+      "7288c53f-9a72-411c-97ab-a7daf5676c91"
+    ]
+  }
+]

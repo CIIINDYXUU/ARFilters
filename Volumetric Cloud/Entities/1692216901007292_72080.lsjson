@@ -1,0 +1,80 @@
+{
+    "1692216901005249:72079": {
+        "IFileManager": {
+            "path": "Files/File_1692216901005249_72079.pvr"
+        }
+    },
+    "1692216901007292:72080": {
+        "IResourceController": {
+            "name": "Smoke",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692216901007745:72081",
+            "fileId": "1692216901005249:72079",
+            "originalId": "1692216901008145:72086",
+            "publicId": "1692216901026790:72097",
+            "expected_hash": "a6b9ae2fea31c4ba063fa7420c3f5dfa",
+            "additional": {
+                "originHash": "23a4819ca6a656eacc8b1cf9170f4c3b",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1692216901007745:72081",
+            "name": "Files/File_1692216901005249_72079.jpg",
+            "flags": 1
+        }
+    },
+    "1692216901007745:72081": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+                    },
+                    "v": "1692216901696627:72345"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "8085",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "7290",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1692216901021429:72096"
+        }
+    },
+    "1692216901008145:72086": {
+        "IFileManager": {
+            "path": "Files/File_1692216901008145_72086.png"
+        }
+    },
+    "1692216901021429:72096": {
+        "IFileManager": {
+            "path": "Files/File_1692216901021429_72096.png"
+        }
+    },
+    "1692216901026790:72097": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Smoke.png",
+                "hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+            }
+        }
+    },
+    "1692216901696627:72345": {
+        "IFileManager": {
+            "path": "Files/File_1692216901696627_72345.pvr"
+        }
+    }
+}

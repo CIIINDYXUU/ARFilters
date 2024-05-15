@@ -1,0 +1,80 @@
+{
+    "1692219912217364:21069": {
+        "IFileManager": {
+            "path": "Files/File_1692219912217364_21069.png"
+        }
+    },
+    "1692219912218985:21070": {
+        "IResourceController": {
+            "name": "voronoi_noise_3D",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692219912219186:21071",
+            "fileId": "1692219912217364:21069",
+            "originalId": "1692219912219626:21076",
+            "publicId": "1692219912244396:21083",
+            "expected_hash": "7e97c7f86dec9fbf8d588d1d5622d888",
+            "additional": {
+                "originHash": "d8e3957825ad8100c60b78995c7c16f0",
+                "subtype": "21"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1692219912219186:21071",
+            "name": "Files/File_1692219912217364_21069.jpg",
+            "flags": 1
+        }
+    },
+    "1692219912219186:21071": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "d8e3957825ad8100c60b78995c7c16f0"
+                    },
+                    "v": "1692219917926711:22665"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9604",
+                "compressedSize": "104672",
+                "extension": "png",
+                "originalRAM": "9604",
+                "originalSize": "296668",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1692219912230028:21082"
+        }
+    },
+    "1692219912219626:21076": {
+        "IFileManager": {
+            "path": "Files/File_1692219912219626_21076.png"
+        }
+    },
+    "1692219912230028:21082": {
+        "IFileManager": {
+            "path": "Files/File_1692219912230028_21082.png"
+        }
+    },
+    "1692219912244396:21083": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/3D Texture Noise/voronoi_noise_3D.png",
+                "hash": "d8e3957825ad8100c60b78995c7c16f0"
+            }
+        }
+    },
+    "1692219917926711:22665": {
+        "IFileManager": {
+            "path": "Files/File_1692219917926711_22665.png"
+        }
+    }
+}

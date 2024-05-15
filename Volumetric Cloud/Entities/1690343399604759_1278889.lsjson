@@ -1,0 +1,24 @@
+{
+    "1690343399604759:1278889": {
+        "IResourceController": {
+            "name": "Tween",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1690343399605315:1278890",
+            "resources": [
+                "1690343402938381:1280504",
+                "1690343402969716:1280534",
+                "1692219913901691:21455"
+            ]
+        }
+    },
+    "1690343399605315:1278890": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween"
+            }
+        }
+    }
+}

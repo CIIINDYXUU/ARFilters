@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "7a9e9e36-a08e-a2a8-09dc-e173dcb8975d",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Ufo_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4699808393373419884, 12445791623489206674)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "5dd9693b-b3c4-6931-0b6f-555851afbf24"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

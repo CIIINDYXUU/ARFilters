@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "ede9a379-89ec-64cb-794e-de5f72da4e66",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "FacePortalAssets",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

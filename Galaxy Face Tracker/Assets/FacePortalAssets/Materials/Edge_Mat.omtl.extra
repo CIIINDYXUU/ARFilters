@@ -1,0 +1,40 @@
+[
+  {
+    "guid": {
+      "a": "956aa1b5-9b3e-1180-c5c9-836b38d1e634",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Edge_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4735893521786000026, 17311100778949421727)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "_SpecularTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-000000000027"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

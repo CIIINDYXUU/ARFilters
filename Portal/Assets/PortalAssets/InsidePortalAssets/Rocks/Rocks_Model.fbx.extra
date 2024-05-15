@@ -1,0 +1,31 @@
+[
+  {
+    "guid": {
+      "a": "33bd2aa1-f711-b827-e201-aacce09450b7",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Rocks_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": false,
+    "materialsGUIDs": [
+      "cd9d8797-4906-4b1e-c927-d5242a636522"
+    ],
+    "meshGUIDs": [
+      "cbb34c35-8209-e037-f5bc-51a7f5507a99",
+      "92be6010-f453-161c-26f5-4340ee46a444"
+    ],
+    "animazGUIDs": [
+      "ba10c766-ba43-299a-cc63-2875579d928a"
+    ]
+  }
+]

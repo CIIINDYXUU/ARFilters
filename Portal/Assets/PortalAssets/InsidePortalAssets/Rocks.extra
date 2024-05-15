@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "c26cc5c6-705c-93f6-3cff-dcc3a52d4186",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Rocks",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

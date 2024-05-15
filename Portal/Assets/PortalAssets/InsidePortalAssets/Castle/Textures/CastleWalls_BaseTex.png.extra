@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "e969df9a-f88f-2567-2ac8-9b4611178795",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "CastleWalls_BaseTex",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

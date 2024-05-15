@@ -1,0 +1,95 @@
+{
+    "1691541682148141:114165": {
+        "IFileManager": {
+            "path": "Files/File_1691541682148141_114165.mesh"
+        }
+    },
+    "1691541682152009:114171": {
+        "IResourceController": {
+            "name": "Dolphin",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691541682197655:114174",
+            "fileId": "1691541682148141:114165",
+            "publicId": "1691541682221663:114204",
+            "expected_hash": "9d95f7d1cbf99d122e6d0adcccee7553",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691541682197655:114174",
+            "name": "Files/File_1691541682148141_114165.mesh",
+            "flags": 1
+        }
+    },
+    "1691541682197655:114174": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "23268",
+                "compressedSize": "19705",
+                "extension": "mesh",
+                "originalRAM": "23268",
+                "originalSize": "19705",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691541682210870:114188"
+        }
+    },
+    "1691541682210870:114188": {
+        "IFileManager": {
+            "path": "Files/File_1691541682210870_114188.mesh"
+        }
+    },
+    "1691541682221663:114204": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Dolphin.mesh",
+                "hash": "9d95f7d1cbf99d122e6d0adcccee7553"
+            }
+        }
+    }
+}

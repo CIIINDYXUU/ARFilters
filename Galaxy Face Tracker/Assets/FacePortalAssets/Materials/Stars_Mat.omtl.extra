@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "95284f43-9789-06f8-200b-fa517e6a0e24",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Stars_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5543668392970402896, 16461079935700508575)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "a3cac7a8-dfa3-ddca-c731-fa9f3ce30c70"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

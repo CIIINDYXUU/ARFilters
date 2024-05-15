@@ -1,0 +1,51 @@
+{
+    "1690235740395313:1333990": {
+        "IResourceController": {
+            "name": "moon_anim",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1690235744291394:1335803",
+            "publicId": "1690235744321794:1335814",
+            "expected_hash": "3e51b881b501d555b0b986a7db73fe59",
+            "resources": [
+                "1690235743162741:1334731",
+                "1690235743213904:1334761",
+                "1690235743229949:1334977",
+                "1690235744215420:1335517"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "assets____Default1",
+                        "v": "1690235743233690:1334983"
+                    }
+                ]
+            }
+        }
+    },
+    "1690235744291394:1335803": {
+        "IFileManager": {
+            "path": "Files/File_1690235744291394_1335803.fbx"
+        }
+    },
+    "1690235744321794:1335814": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/moon_anim.fbx",
+                "hash": "3e51b881b501d555b0b986a7db73fe59"
+            }
+        }
+    }
+}

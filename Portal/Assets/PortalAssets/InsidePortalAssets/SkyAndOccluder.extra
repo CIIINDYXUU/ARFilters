@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "64fa3925-a5f6-9d0c-ae7d-2ea2676463d6",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "SkyAndOccluder",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

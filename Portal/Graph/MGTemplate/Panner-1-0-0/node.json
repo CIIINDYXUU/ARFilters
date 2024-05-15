@@ -1,0 +1,34 @@
+{
+	"id": "058f0294-ba0f-6ff8-d923-9ba505b14e6b",
+	"name": "Panner",
+	"category": "Coordinates",
+	"inputs": [
+		{
+			"name": "Coordinate",
+			"description": "2D Coordinate.",
+			"type": "Vector2f"
+		},
+		{
+			"name": "Time",
+			"description": "Total time passes (second). Total time from timer node are usually used as an input.",
+			"type": "Number"
+		},
+		{
+			"name": "Speed",
+			"description": "Translation speed.",
+			"type": "Vector2f"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"description": "Coordinate after translation. If 'Fractional' is checked, the result is between 0 and 1.",
+			"type": "Vector2f"
+		}
+	],
+	"description": "Translate a 2D coordinate.",
+	"productTypes": [
+		"EHO", "EHD", "EHI"
+	],
+	"version": "1.0.0"
+}

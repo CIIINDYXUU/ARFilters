@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "0cf69e2e-11ae-d287-be57-a608fa8f9f52",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "InsidePortalAssets",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

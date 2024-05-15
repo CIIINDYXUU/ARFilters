@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "7b901cc9-49d1-04d7-6449-86a0807e385e",
+      "b": ""
+    },
+    "extraType": "ResItemGraphMaterial",
+    "name": "Sky_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.4.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5617127026436645284, 7197751916241014968)",
+    "references": [
+      {
+        "propertyName": "_Custom_Sampler2D_9",
+        "guid": "6ce19002-d9a7-0cac-b85f-af66540dd2d2"
+      }
+    ]
+  }
+]

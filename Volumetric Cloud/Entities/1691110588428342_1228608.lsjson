@@ -1,0 +1,79 @@
+{
+    "1691110588426830:1228607": {
+        "IFileManager": {
+            "path": "Files/File_1691110588426830_1228607.png"
+        }
+    },
+    "1691110588428342:1228608": {
+        "IResourceController": {
+            "name": "warped_noise_3D",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691110588428531:1228609",
+            "fileId": "1691110588426830:1228607",
+            "originalId": "1691110588428849:1228614",
+            "publicId": "1691110588451829:1228623",
+            "expected_hash": "e5e83419a39321d2c6ed179326dd5aad",
+            "additional": {
+                "originHash": "14a8b554a6a7478c0a0ca4caa5695231"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691110588428531:1228609",
+            "name": "Files/File_1691110588426830_1228607.jpg",
+            "flags": 1
+        }
+    },
+    "1691110588428531:1228609": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "14a8b554a6a7478c0a0ca4caa5695231"
+                    },
+                    "v": "1691110602016009:1239636"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9604",
+                "compressedSize": "71804",
+                "extension": "png",
+                "originalRAM": "9604",
+                "originalSize": "191637",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691110588440020:1228620"
+        }
+    },
+    "1691110588428849:1228614": {
+        "IFileManager": {
+            "path": "Files/File_1691110588428849_1228614.png"
+        }
+    },
+    "1691110588440020:1228620": {
+        "IFileManager": {
+            "path": "Files/File_1691110588440020_1228620.png"
+        }
+    },
+    "1691110588451829:1228623": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/3D Texture Noise/warped_noise_3D.png",
+                "hash": "14a8b554a6a7478c0a0ca4caa5695231"
+            }
+        }
+    },
+    "1691110602016009:1239636": {
+        "IFileManager": {
+            "path": "Files/File_1691110602016009_1239636.png"
+        }
+    }
+}

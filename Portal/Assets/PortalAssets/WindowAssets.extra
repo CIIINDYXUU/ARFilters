@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "c724f6bc-d4ca-0185-df64-632b906af49c",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "WindowAssets",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

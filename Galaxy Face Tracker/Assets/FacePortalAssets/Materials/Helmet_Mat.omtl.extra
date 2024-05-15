@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "56601551-7cab-7e10-de8e-9376db1eb426",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Helmet_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5263536887568774180, 3746221141782884231)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "u_NormalTex",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "u_MRATex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_EmissiveTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_FresnelTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_ThinTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_EnvTex",
+        "guid": "00000000-0000-0000-0000-000000000020"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

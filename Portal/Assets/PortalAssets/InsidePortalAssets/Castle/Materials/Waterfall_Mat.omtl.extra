@@ -1,0 +1,24 @@
+[
+  {
+    "guid": {
+      "a": "c9f0de56-2710-1220-cb39-4174bc1e8617",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Waterfall_Mat",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5762359826487097304, 4317022190832421026)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "7fac3da0-2367-44d4-d53c-e19e2dcd572f"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

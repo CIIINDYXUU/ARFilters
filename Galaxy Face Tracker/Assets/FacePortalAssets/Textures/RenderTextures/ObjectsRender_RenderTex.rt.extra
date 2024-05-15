@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "028f2f96-f0eb-71c0-dd2e-a51ab895ab98",
+      "b": ""
+    },
+    "extraType": "ResItemRenderTexture",
+    "name": "ObjectsRender_RenderTex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "ScreenRenderTexture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

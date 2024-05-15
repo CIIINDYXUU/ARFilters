@@ -1,0 +1,39 @@
+{
+    "1690235743230695:1334981": {
+        "IFileManager": {
+            "path": "Files/File_1690235743230695_1334981"
+        }
+    },
+    "1690235743233684:1334982": {
+        "IResourceController": {
+            "name": "Moon",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690235743233690:1334983",
+            "fileId": "1690235743230695:1334981",
+            "originalId": "1690235743281731:1335000",
+            "publicId": "1690235744326801:1335816",
+            "expected_hash": "92a35721b73b6050a72a4d70e2d926c3"
+        },
+        "IResourceManager": {
+            "uid": "1690235743233690:1334983",
+            "name": "Files/File_1690235743230695_1334981",
+            "flags": 1
+        }
+    },
+    "1690235743281731:1335000": {
+        "IFileManager": {
+            "path": "Files/File_1690235743281731_1335000.lsmat"
+        }
+    },
+    "1690235744326801:1335816": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/moon_anim/Materials/Moon.lsmat",
+                "hash": "7f7475c535d63bc24ed1b7b503266bef"
+            }
+        }
+    }
+}

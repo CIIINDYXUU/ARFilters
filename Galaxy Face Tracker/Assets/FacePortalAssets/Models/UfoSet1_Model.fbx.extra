@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "c3eea6c7-12ce-b6c5-d6ac-7f16b67869ef",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "UfoSet1_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": false,
+    "materialsGUIDs": [
+      "ede2b54c-c4f9-5d91-af85-408dedc88170"
+    ],
+    "meshGUIDs": [
+      "da109000-413c-9fb9-a4bd-7204a74407b5"
+    ],
+    "animazGUIDs": [
+      "6e187dc4-5a8d-84cc-ef23-32ed1ccdbcef",
+      "2b1d7bcc-0f85-72ee-2279-233ac07969b4",
+      "d622fc51-8a26-16e7-3bf9-f5490e50c29d"
+    ]
+  }
+]

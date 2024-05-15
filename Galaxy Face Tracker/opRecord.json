@@ -1,0 +1,47 @@
+{
+  "projectId": "8e96e921-5570-ff81-0a16-fb881f7ede4f",
+  "isFromTemplate": true,
+  "templateId": "7224488430233796610",
+  "opMap": {
+    "AddEntity": {
+      "count": 50,
+      "seed": "qgflytxp"
+    },
+    "PropertyChange": {
+      "count": 558,
+      "seed": "uuprwjwe"
+    },
+    "SceneDefault": {
+      "count": 34,
+      "seed": "1sb985p4"
+    },
+    "RemoveEntity": {
+      "count": 25,
+      "seed": "m06ssm7t"
+    },
+    "AddNode": {
+      "count": 192,
+      "seed": "iamycezf"
+    },
+    "RemoveNode": {
+      "count": 102,
+      "seed": "qzc5qko9"
+    },
+    "PortChange": {
+      "count": 209,
+      "seed": "9q5rygdb"
+    },
+    "AddEdge": {
+      "count": 132,
+      "seed": "f1s7gkos"
+    },
+    "RemoveEdge": {
+      "count": 92,
+      "seed": "l5xa1u96"
+    },
+    "ParamChange": {
+      "count": 4,
+      "seed": "o2vuazod"
+    }
+  }
+}

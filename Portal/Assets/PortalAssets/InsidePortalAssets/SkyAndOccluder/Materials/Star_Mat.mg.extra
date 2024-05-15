@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "58ae8514-a883-f9c8-e660-dabcc1e42568",
+      "b": ""
+    },
+    "extraType": "ResItemGraphMaterial",
+    "name": "Star_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.4.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5407811359827237965, 7726548058448976032)",
+    "references": [
+      {
+        "propertyName": "_Custom_Sampler2D_9",
+        "guid": "0a2a5655-5164-039a-f822-94dca2ccacd9"
+      }
+    ]
+  }
+]

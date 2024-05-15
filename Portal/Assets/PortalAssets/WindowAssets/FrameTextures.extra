@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "fb5fc739-5571-902f-8c5f-29658436e268",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "FrameTextures",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

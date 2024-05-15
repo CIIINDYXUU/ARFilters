@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "6b4f4d83-2dc8-5a9c-0564-4612a0aac8a1",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Rocks_Normal",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

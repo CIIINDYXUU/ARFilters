@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "33d2420e-2c61-3854-fe56-1a70c5c6b4b4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Rocks_BaseTex",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

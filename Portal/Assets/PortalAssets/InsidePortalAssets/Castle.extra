@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "f5ee2980-e857-5a3d-fe97-7f5929e8e83f",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Castle",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

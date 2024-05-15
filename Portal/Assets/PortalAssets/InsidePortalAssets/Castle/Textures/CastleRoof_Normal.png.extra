@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "6c8f932f-792e-740d-063d-e261b0dbb777",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "CastleRoof_Normal",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": true,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 2,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

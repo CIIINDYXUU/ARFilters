@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "b0447f1b-a889-943f-3d4c-9d5fd851d22b",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Rocks_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5445329428507520024, 2503039579077232548)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "33d2420e-2c61-3854-fe56-1a70c5c6b4b4"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "6b4f4d83-2dc8-5a9c-0564-4612a0aac8a1"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "65e511c3-730c-272e-29b1-109efd63654f"
+      },
+      {
+        "propertyName": "_EnvironmentTexture",
+        "guid": "00000000-0000-0000-0000-000000000020"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

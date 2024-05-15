@@ -1,0 +1,39 @@
+{
+    "1692229833605095:717517": {
+        "IFileManager": {
+            "path": "Files/File_1692229833605095_717517"
+        }
+    },
+    "1692229833609648:717518": {
+        "IResourceController": {
+            "name": "Debris Particles",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692229833609663:717519",
+            "fileId": "1692229833605095:717517",
+            "originalId": "1692229833694760:717525",
+            "publicId": "1692229834101887:717538",
+            "expected_hash": "c31dcd1a586280eeafe0f53af921f55f"
+        },
+        "IResourceManager": {
+            "uid": "1692229833609663:717519",
+            "name": "Files/File_1692229833605095_717517",
+            "flags": 1
+        }
+    },
+    "1692229833694760:717525": {
+        "IFileManager": {
+            "path": "Files/File_1692229833694760_717525.lsmat"
+        }
+    },
+    "1692229834101887:717538": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Vortex/GPU Particles/Debris Particles.lsmat",
+                "hash": "e3a2c5bb931440288e55ee0ff49deeb6"
+            }
+        }
+    }
+}

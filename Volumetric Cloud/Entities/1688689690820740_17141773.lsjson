@@ -1,0 +1,80 @@
+{
+    "1688689690818859:17141772": {
+        "IFileManager": {
+            "path": "Files/File_1688689690818859_17141772.png"
+        }
+    },
+    "1688689690820740:17141773": {
+        "IResourceController": {
+            "name": "flow_noise3_3D",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1688689690821199:17141774",
+            "fileId": "1688689690818859:17141772",
+            "originalId": "1688689690821733:17141779",
+            "publicId": "1688689690846138:17141790",
+            "expected_hash": "bf2fee976a069ee7be5b062d242766c5",
+            "additional": {
+                "originHash": "2c104ca54fd7c7ec33c3143b77d54032",
+                "subtype": "21"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1688689690821199:17141774",
+            "name": "Files/File_1688689690818859_17141772.jpg",
+            "flags": 1
+        }
+    },
+    "1688689690821199:17141774": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "2c104ca54fd7c7ec33c3143b77d54032"
+                    },
+                    "v": "1688689728421749:17189734"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9604",
+                "compressedSize": "94889",
+                "extension": "png",
+                "originalRAM": "9604",
+                "originalSize": "264874",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1688689690832388:17141789"
+        }
+    },
+    "1688689690821733:17141779": {
+        "IFileManager": {
+            "path": "Files/File_1688689690821733_17141779.png"
+        }
+    },
+    "1688689690832388:17141789": {
+        "IFileManager": {
+            "path": "Files/File_1688689690832388_17141789.png"
+        }
+    },
+    "1688689690846138:17141790": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/3D Texture Noise/flow_noise3_3D.png",
+                "hash": "2c104ca54fd7c7ec33c3143b77d54032"
+            }
+        }
+    },
+    "1688689728421749:17189734": {
+        "IFileManager": {
+            "path": "Files/File_1688689728421749_17189734.png"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1692216901208144:72118": {
+        "IFileManager": {
+            "path": "Files/File_1692216901208144_72118"
+        }
+    },
+    "1692216901212978:72119": {
+        "IResourceController": {
+            "name": "Dust Particles",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692216901212985:72120",
+            "fileId": "1692216901208144:72118",
+            "originalId": "1692216901244997:72124",
+            "publicId": "1692216901408755:72131",
+            "expected_hash": "02ee21cf73cfd70d08e54b4388638618"
+        },
+        "IResourceManager": {
+            "uid": "1692216901212985:72120",
+            "name": "Files/File_1692216901208144_72118",
+            "flags": 1
+        }
+    },
+    "1692216901244997:72124": {
+        "IFileManager": {
+            "path": "Files/File_1692216901244997_72124.lsmat"
+        }
+    },
+    "1692216901408755:72131": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Vortex/GPU Particles/Dust Particles.lsmat",
+                "hash": "1611f55896e0f6c56f90566295927ea2"
+            }
+        }
+    }
+}

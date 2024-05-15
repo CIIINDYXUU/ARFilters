@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "fc3935e5-af66-ef73-31a5-7d73b076053b",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "CastleRoof_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5009043970482311682, 10633415140497436082)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "d0340daf-30e2-e8c6-d03d-389942542cc9"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "6c8f932f-792e-740d-063d-e261b0dbb777"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "43f9beab-428e-998c-d423-01d2a0f318f3"
+      },
+      {
+        "propertyName": "_EnvironmentTexture",
+        "guid": "00000000-0000-0000-0000-000000000020"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

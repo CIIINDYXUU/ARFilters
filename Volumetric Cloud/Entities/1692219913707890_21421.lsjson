@@ -1,0 +1,39 @@
+{
+    "1692219913706402:21418": {
+        "IFileManager": {
+            "path": "Files/File_1692219913706402_21418"
+        }
+    },
+    "1692219913707890:21421": {
+        "IResourceController": {
+            "name": "3D Noise Tornado",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692219913707893:21422",
+            "fileId": "1692219913706402:21418",
+            "originalId": "1692219913730119:21426",
+            "publicId": "1692219913817736:21433",
+            "expected_hash": "233f3ff16486781600f17f8729799acf"
+        },
+        "IResourceManager": {
+            "uid": "1692219913707893:21422",
+            "name": "Files/File_1692219913706402_21418",
+            "flags": 1
+        }
+    },
+    "1692219913730119:21426": {
+        "IFileManager": {
+            "path": "Files/File_1692219913730119_21426.lsmat"
+        }
+    },
+    "1692219913817736:21433": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Vortex/3D Noise Tornado.lsmat",
+                "hash": "2875334330a3ab46e06edbdfa2cfca77"
+            }
+        }
+    }
+}

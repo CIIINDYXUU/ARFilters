@@ -1,0 +1,23 @@
+{
+    "1692219913037517:21168": {
+        "IResourceController": {
+            "name": "Vortex",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1692219913037932:21169",
+            "resources": [
+                "1692219913038837:21170",
+                "1692219913707890:21421"
+            ]
+        }
+    },
+    "1692219913037932:21169": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Vortex"
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "04f45615-0dc8-f78f-5b1f-1a9f640dcfe9",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Frame_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5689437023435050735, 16914813614026959759)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "3afd8842-4bad-67c7-070b-0609e7597237"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "3afd8842-4bad-67c7-070b-0609e7597237"
+      }
+    ],
+    "currAuslVersion": "1.0.0"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "6ce19002-d9a7-0cac-b85f-af66540dd2d2",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Sky_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 2,
+    "quality": 0,
+    "maxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 1,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]
