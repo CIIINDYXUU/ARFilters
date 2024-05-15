@@ -93,7 +93,7 @@ Compared to Effect House, which released in 2022, Lens Studio has been out since
 Upon discovering [this documentation on converting Shadertoy operations to Lens Studio](https://docs.snap.com/lens-studio/references/guides/lens-features/graphics/materials/material-editor/tutorials/shadertoy-to-lens-studio#idate), I was inspired to create a Lens that used GLSL shaders to create an interesting interactive effect. I settled on a rain shader effect, where the user can drag their finger on the screen to temporarily "wipe away" the falling rain.
 
 <div align="center">
-  <video src= />
+  <video src= https://github.com/CIIINDYXUU/ARFilters/assets/88256581/2933b8af-5383-4558-8fbb-ff55d2ac5250/>
 </div>
 
 #### Method
@@ -106,6 +106,10 @@ At a high-level, the implementation behind the filter involves two main parts: a
 
 ### Lens #2: Fish Hand Tracking Effect
 Since I explored facial/head tracking on Effect House, I wanted to also explore hand tracking which allows for some interesting AR interactive effects. After looking into Snap AR's [documentation on hand tracking](https://docs.snap.com/lens-studio/references/templates/object/hand), I came across an interesting idea combining hand tracking and crowd simulation/VFX. In this filter, users can hold up their hands to control swarms of fish! By holding up their right hand, the fish are attracted to the position of your hand. By holding up your left hand, the fish are repelled away.
+
+<div align="center">
+  <video src= https://github.com/CIIINDYXUU/ARFilters/assets/88256581/83776b75-9702-49ea-914e-8b25a9bcd1d9/>
+</div>
 
 #### Method
 
