@@ -97,11 +97,14 @@ Upon discovering [this documentation on converting Shadertoy operations to Lens 
 </div>
 
 #### Method
-<img align="right" src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/97287d31-b258-4360-a9f8-b921425f0d5d width=500 height=auto>
 
-The main approach for this filter was using Lens Studio's unique "Custom Code" node which allows for writing custom shaders. Specifically, I found a [Youtube tutorial](https://www.youtube.com/watch?app=desktop&v=1CdKj_kqieY) that outlined how to use [this website](https://codepen.io/2020cv/full/YzaEBgy) to directly convert Shadertoy shaders in GLSL to be compatible within Lens Studio, which uses Javascript. Then, I scoured the Shadertoy website looking for some interesting rain shaders and decided to go with [this shader with falling rain on glass](https://www.shadertoy.com/view/ltffzl). Following the tutorial, I converted the GLSL code and begun implementing the shader within Lens Studio. 
+<img align="right" src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/625c4fc4-2635-4ee1-ab64-9a4d24f5077d width=450 height=auto>
+
+TThe main approach for this filter was using Lens Studio's unique "Custom Code" node which allows for writing custom shaders. Specifically, I found a [Youtube tutorial](https://www.youtube.com/watch?app=desktop&v=1CdKj_kqieY) that outlined how to use [this website](https://codepen.io/2020cv/full/YzaEBgy) to directly convert Shadertoy shaders in GLSL to be compatible within Lens Studio. Then, I scoured the Shadertoy website looking for some interesting rain shaders and decided to go with [this shader with falling rain on glass](https://www.shadertoy.com/view/ltffzl). Following the tutorial, I converted the GLSL code and begun implementing the shader within Lens Studio. 
 
 At a high-level, the implementation behind the filter involves two main parts: a Rain shader material which is applied to the screen as well as a "Brush Controller" that wipes the rain drops clear via masking before fading back to the shader. To implement the "Brush" I implemented a script using [documentation on ScreenTransform](https://docs.snap.com/api/lens-studio/Classes/Components#ScreenTransform), which is a type of class that affects object behavior, in this case allowing a user to draw on screen. A user drawing on the screen is an Overlay effect/material directly affecting the opacity (alpha channel) of the background.
+
+<img src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/97287d31-b258-4360-a9f8-b921425f0d5d width=500 height=auto>
 
 
 ### Lens #2: Fish Hand Tracking Effect
@@ -112,14 +115,28 @@ Since I explored facial/head tracking on Effect House, I wanted to also explore 
 </div>
 
 #### Method
+This effect built off of Lens Studio's existing capabilities for hand tracking, which include [3D Hand Tracking components](https://docs.snap.com/lens-studio/references/templates/object/hand/3d-hand-tracking#3dhandtracking) for the right and left hand. The effect also makes use of the VFX Editor, which allows the user to create effects using a node graph. The effect comprises of several main parts -- I created 4 different materials which are assets made up of shaders that define the look and placement of objects. The materials include an underwater effect that creates faint ripples on the screen, sun rays shining into the water, and a distorting/shaking effect on the camera. The screenshots below outline the different node graphs for each material and fish swarm VFX.
+
+<img src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/f7e4aa06-b548-4e8b-9399-f62ca0f2b5cf height=auto width=480>
+<img src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/032a83f8-0900-454a-8dc8-c1dcca243f35 height=auto width=480>
+<img src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/839df76e-4a79-47d7-be07-773a1f9be989 height=auto width=480>
+<img src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/a65cf1d9-f9dd-4076-9ea7-305d154b7cbf height=auto width=480>
+
 
 ### Lens #3: Volumetric Vortex
+The final effect I created explored one of Lens Studio's newest features, Volumetric cloud rendering via raymarching. The filter is a swirling vortex of volumetric clouds along with occasional lightning and 3D particles (cows and dust) flying around. 
 
 <div align="center">
   <video src= https://github.com/CIIINDYXUU/ARFilters/assets/88256581/c75c7daa-471b-41f7-9b26-1fbd14115fae />
 </div>
 
 #### Method
+The vortex comprises of 2 procedurally drawn cone shapes stacked ontop of one another to make the basic shape of a tornado. The two shapes are then twisted and a noise is applied via a distortion shader node is applied to create the tornado effect. In order to implement the 3D particles swirling around the vortex, I built off existing [documentation on 3D mesh particles](https://docs.snap.com/lens-studio/references/templates/world/particles#3d-mesh-particles), specifically the [GPU Particles object](https://docs.snap.com/lens-studio/references/guides/lens-features/graphics/particles/gpu-particles). Screenshot of the key custom code nodes used (Distortion and Raymarching) and the overall node graph are below:
+
+<img align="center" src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/cb217a32-e2dd-4a3e-ab07-914ff09c3ecc>  
+</br>
+<img src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/f728c821-92e9-4f49-8071-3c381e43d4dc height=242>
+<img src=https://github.com/CIIINDYXUU/ARFilters/assets/88256581/f363c2cb-f6ba-4113-ba91-5b9757fc7784 height=242>
 
 ## Conclusion
 
