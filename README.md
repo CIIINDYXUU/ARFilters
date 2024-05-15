@@ -28,9 +28,9 @@ The objective of this independent study is to delve deeper into augmented realit
 
 The initial plan was to learn three different softwares: Tiktok's Effect House, Meta's Spark AR, and Unity's AR Foundation, buildling 2-3 AR experiences each. However, early on in the semester I quickly realized this plan was overambitious and decided to rescope from breadth to depth. This study explores AR development in Tiktok's Effect House and Snap Inc.'s Lens Studio, with the goal of delving deeper into each software's capabilities. I ended up creating 6 experiences overall, 3 per software. The following list covers the range of AR features and types of effects I was able to explore in the semester:
 - Effect House (Tiktok)
-  - World AR
+  - World AR (projection onto real-world environments)
   - Interactive Gaming
-  - Real-time Physics
+  - Real-time 3D Physics
   - Head Tracking
   - Face Filters
 - Lens Studio (Snap Inc.)
@@ -43,19 +43,37 @@ The initial plan was to learn three different softwares: Tiktok's Effect House, 
 
 Upon rescoping the project from the initial plan, I restructured my timeline to the following:
 
-![Independent Study (1)](https://github.com/CIIINDYXUU/ARFilters/assets/88256581/105ace30-16fa-4fab-9304-5da5e6a113df)
 
 
 ## Developing in Tiktok's Effect House
 
-### Filter #1: Ocean Mirror Effect
+### Filter #1: Castle Portal Effect
+The first effect I wanted to try making was a portal effect, one where a user could view the portal suspended midair and travel inside to view another world. 
+
+
+This effect relies heavily on Effect House's AR Plane feature, which tracks real-world surfaces and allows for the placement of 3D models in a real environment. Another major component to the filter is occlusion, hiding virtual objects behind real world elements, which is responsible for the portal like effect. The filter comprises mainly of a spherical mesh with a sky material applied to it as well as "The Occluder," another spherical mesh that obscures the outside of the "Sky" object except for the opening of the portal. Within the Sky object are Castle, Rock, and Cloud assets animated on loop. 
+
 ### Filter #2: Ball Bouncer Game
-### Filter #3: Galaxy Portal Face Effect
+Interactive games are one of the most popular filter effects on the TikTok platform, constantly going viral, so I knew that I wanted to attempt making one myself. My goal was to design a straightforward but addictive, interactive game that utilized  EFfect House's 3D Physics engine. Over the course of 2-3 weeks, I conceptualized, designed, and developed an endless runner game with a bouncing ball, inspired by the popular mobile game Doodle Jump. 
+
+Ball Bouncer is an endless runner game where the user tries to keep a ball bouncing higher and higher. Instead of platforms already existing for the ball to bounce on top of, the user is responsible for drawing platforms to keep the ball going and must move swiftly to keep the ball from falling. All assets, from the ball to the platform to the UI elements, were taken directly from Effect House's asset and material libraries.
+
+### Filter #3: Galaxy Face Effect
+The final effect I wanted to create in Effect House was a face filter, as AR filters that utilize face tracking to create fun effects are so prevalent and widespread.
 
 ## Developing in Snap Inc.'s Lens Studio
 
+Compared to Effect House, which released in 2022, Lens Studio has been out since 2017 and as a result felt more robust and developed, especially regarding its graphics capabilities. Unlike Effect House which prioritizes no-code visual scripting, Lens Studio also had more features for  In the second half of the study, I wanted to continue exploring different types of AR effects other than games, head tracking, and world effects. Lens Studio also 
+
 ### Lens #1: Interactive Rain Shader
-### Lens #2: Hand Tracking Effect
-### Lens #3: Volumetric Clouds
+One 
+
+
+
+### Lens #2: Fish Hand Tracking Effect
+
+
+
+### Lens #3: Volumetric Vortex
 
 ## Conclusion
